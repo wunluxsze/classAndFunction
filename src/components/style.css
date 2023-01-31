@@ -1,0 +1,30 @@
+.link{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+a{
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 5px;
+    max-width: 400px;
+    background-color: black;
+}
+
+ul{
+    text-decoration: none;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+}
+.books{
+    display: flex;
+    column-gap: 10px;
+    font-size: 40px;
+}
+.title{
+    font-size: 30px;
+
+}
